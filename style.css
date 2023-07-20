@@ -1,0 +1,114 @@
+   .image {
+        align-content: start;
+        width: 40%;
+        padding-top: 168px;
+        padding-left: 235px;
+      }
+      .text {
+        margin-top: 0;
+        
+            padding-left: 268px;
+            font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+            font-size: 25px;
+            font-weight: 300;
+    
+      }
+      .login{
+        padding-bottom:0px;
+        padding-top: 23px;
+        height: 348px;
+        width: 393px;
+        text-align: center;
+       border-radius: 8px;
+    background-color:#FFFFFF
+      }
+      .split{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+      }
+    
+      .right {
+        align-content: start;
+        width: 43%;
+        padding-left: 64px;
+    padding-top: 6rem;
+        padding-left: 91px; 
+      
+      }
+    input{
+      padding-top: 10px;
+      padding-left: 10px;
+      width: 342px;
+      height: 34px;
+      border-radius: 5px;
+      text-align: left; 
+     
+    }
+    .loginbutton{
+   
+      background-color: #1877F2;
+      font-weight: 700;
+      border: none;
+      padding-top: 10px;
+      padding-left: 10px;
+      width: 350px;
+      height: 50px;
+      border-radius: 5px;
+      text-align: center;  
+      font-size: 15px;
+    }
+    .loginbutton a{
+      
+      color: #ffff;
+    }
+    .newac{
+      background-color: #42B72A;
+      border: none;
+      padding-top: 10px;
+      padding-left: 10px;
+      width: 350px;
+      height: 50px;
+      border-radius: 5px;
+      text-align: center;  
+      font-size: 15px;
+    }
+    .newac a{
+      color: #ffff;
+      font-weight: 700;
+    }
+
+      .logd{
+        padding-left: 55px;
+      }
+      .prb{
+        text-align: center;
+        font-size: 13px;
+      }
+      
+      .bottom{
+        display: flex;
+        flex-direction: column;
+        height: 10rem;
+        width: 88rem;
+        /* margin-right: 10px; */
+        /* padding-top: 20px;
+        padding-bottom: 157px; */
+        background-color: rgb(176, 176, 176);
+        align-items: center;
+        gap: 2rem;
+        margin: 0 auto;
+        text-align: center;
+      }
+      .lang{
+        width: 86rem;
+        height: 15px;
+        color: black;
+      }
+      .mar{
+        font-size: 12px;
+        width: 86rem;
+        height: 147px;
+        color: black;
+
+      }
+      
